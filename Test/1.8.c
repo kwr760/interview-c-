@@ -30,7 +30,7 @@ bool isSubString(const char *s1, const char *s2)
 bool isRotation(const char *s1, const char *s2)
 {
 	bool rotation;
-	char *dup = strcat(_strdup(s1), _strdup(s1));
+	char *dup = strcat(strdup(s1), strdup(s1));
 
 	if (strlen(s1) != strlen(s2))
 	{

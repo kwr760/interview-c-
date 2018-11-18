@@ -6,7 +6,7 @@ typedef int bool;
 char *addURLSpace(const char *string)
 {
 	bool started = 0;
-	char *s = _strdup(string);
+	char *s = strdup(string);
 	char *head = s;
 	char *end;
 

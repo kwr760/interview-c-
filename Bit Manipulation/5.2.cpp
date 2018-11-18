@@ -1,4 +1,5 @@
-#include "stdafx.h"
+#include <stdio.h>
+#include <string.h>
 
 #include "5.2.h"
 
@@ -20,7 +21,7 @@ char *testRealBinary(double num)
 	if (num >= 1 || num <= 0)
 		return "ERROR";
 
-	strcat_s(b, ".");
+	strcat(b, ".");
 	while (num > 0) {
 		if (strlen(b) >= 32)
 			return "ERROR";
@@ -28,12 +29,12 @@ char *testRealBinary(double num)
 		double r = num * 2;
 		if (r >= 1)
 		{
-			strcat_s(b, "1");
+			strcat(b, "1");
 			num = r - 1;
 		}
 		else 
 		{
-			strcat_s(b, "0");
+			strcat(b, "0");
 			num = r;
 		}
 	}

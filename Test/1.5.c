@@ -5,7 +5,7 @@
 char *compressString(const char *string)
 {
 	char *head;
-	char *compressed = _strdup(string);
+	char *compressed = strdup(string);
 	char number[32];
 	char ch = *string;
 	int count = 1;

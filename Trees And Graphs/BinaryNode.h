@@ -1,5 +1,7 @@
 #pragma once
 
+#include <cstddef>
+
 extern void testBinaryTree();
 
 class BinaryNode

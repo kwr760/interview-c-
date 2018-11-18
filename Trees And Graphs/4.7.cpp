@@ -1,6 +1,4 @@
-#include "stdafx.h"
-
-#include "binaryNode.h"
+#include "BinaryNode.h"
 #include "4.7.h"
 
 BinaryNode *commonAncesterBad(BinaryNode *root, BinaryNode *p, BinaryNode *q)

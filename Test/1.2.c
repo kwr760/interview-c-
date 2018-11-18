@@ -42,7 +42,7 @@ int reverseBetter(char *toReverse)
 	char *str, *end, *start;
 	char temp;
 
-	start = str = end = _strdup(toReverse);
+	start = str = end = strdup(toReverse);
 
 	printf("Original:  %s\n", toReverse);
 

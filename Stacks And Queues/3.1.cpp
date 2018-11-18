@@ -1,4 +1,4 @@
-#include "stdafx.h"
+#include <stdio.h>
 
 #include "3.1.h"
 

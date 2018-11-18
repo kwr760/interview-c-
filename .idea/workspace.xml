@@ -1,43 +1,300 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true" buildAllGenerated="false">
-    <generated />
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true" buildAllGenerated="true">
+    <generated>
+      <config projectName="interview" targetName="stacks" />
+      <config projectName="interview" targetName="trees" />
+      <config projectName="interview" targetName="test" />
+      <config projectName="interview" targetName="lists" />
+      <config projectName="interview" targetName="bits" />
+    </generated>
   </component>
-  <component name="CMakeSettings">
+  <component name="CMakeSettings" AUTO_RELOAD="true">
     <configurations>
       <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="265dc759-f428-43d8-b736-439bf8b20ec4" name="Default" comment="" />
+    <list default="true" id="265dc759-f428-43d8-b736-439bf8b20ec4" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/interview-cpp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/interview-cpp.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bit Manipulation/5.1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Bit Manipulation/5.1.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bit Manipulation/5.2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Bit Manipulation/5.2.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bit Manipulation/Bit Manipulation.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Bit Manipulation/Bit Manipulation.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bit Manipulation/Bit Manipulation.vcproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bit Manipulation/ReadMe.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bit Manipulation/print.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Bit Manipulation/print.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bit Manipulation/stdafx.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bit Manipulation/stdafx.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bit Manipulation/targetver.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Google/Google.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Google/Google.vcproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Google/ReadMe.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Google/interview.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Google/interview.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Google/stdafx.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Google/stdafx.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Google/targetver.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lists/2.1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Lists/2.1.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lists/2.2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Lists/2.2.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lists/2.3.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Lists/2.3.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lists/3.1.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lists/Chapter 2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Lists/Chapter 2.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lists/LinkedList.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Lists/LinkedList.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lists/Lists.vcproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lists/Node.h" beforeDir="false" afterPath="$PROJECT_DIR$/Lists/Node.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lists/ReadMe.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lists/stdafx.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lists/stdafx.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lists/targetver.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stacks And Queues/3.1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Stacks And Queues/3.1.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stacks And Queues/3.2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Stacks And Queues/3.2.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stacks And Queues/3.2.h" beforeDir="false" afterPath="$PROJECT_DIR$/Stacks And Queues/3.2.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stacks And Queues/ReadMe.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stacks And Queues/Stacks And Queues.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Stacks And Queues/Stacks And Queues.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stacks And Queues/Stacks And Queues.vcproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stacks And Queues/stdafx.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stacks And Queues/stdafx.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stacks And Queues/targetver.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/1.2.c" beforeDir="false" afterPath="$PROJECT_DIR$/Test/1.2.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/1.4.c" beforeDir="false" afterPath="$PROJECT_DIR$/Test/1.4.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/1.5.c" beforeDir="false" afterPath="$PROJECT_DIR$/Test/1.5.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/1.8.c" beforeDir="false" afterPath="$PROJECT_DIR$/Test/1.8.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Chapter 1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Test/Chapter 1.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Cracking the Coding Interview.ncb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Cracking the Coding Interview.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Cracking the Coding Interview.suo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/ReadMe.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Test.ncb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Test.vcproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/stdafx.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/stdafx.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/targetver.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trees And Graphs/4.7.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Trees And Graphs/4.7.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trees And Graphs/BinaryNode.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Trees And Graphs/BinaryNode.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trees And Graphs/BinaryNode.h" beforeDir="false" afterPath="$PROJECT_DIR$/Trees And Graphs/BinaryNode.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trees And Graphs/ReadMe.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trees And Graphs/Trees And Graphs.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Trees And Graphs/Trees And Graphs.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trees And Graphs/Trees And Graphs.vcproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trees And Graphs/stdafx.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trees And Graphs/stdafx.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trees And Graphs/targetver.h" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FUSProjectUsageTrigger">
+    <session id="1585807799">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.2" value="2" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="c" value="19" />
+          <entry key="cmake" value="1" />
+          <entry key="cpp" value="26" />
+          <entry key="h" value="16" />
+          <entry key="txt" value="8" />
+          <entry key="vcproj" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CMakeLists.txt" value="4" />
+          <entry key="ObjectiveC" value="61" />
+          <entry key="PLAIN_TEXT" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cpp" value="334" />
+          <entry key="h" value="53" />
+          <entry key="txt" value="462" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CMakeLists.txt" value="451" />
+          <entry key="ObjectiveC" value="387" />
+          <entry key="PLAIN_TEXT" value="11" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Test/Chapter 1.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="630">
+              <caret line="42" column="5" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
+              <folding>
+                <element signature="e#70#88#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Test/1.8.c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="525">
+              <caret line="35" column="4" selection-start-line="35" selection-start-column="4" selection-end-line="35" selection-end-column="4" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Test/1.1.c">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Test/1.2.c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="645">
+              <caret line="44" column="24" selection-start-line="44" selection-start-column="24" selection-end-line="44" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Test/1.3.c">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Test/1.4.c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="82">
+              <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Test/1.5.c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="37">
+              <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Test/1.6.c">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Test/1.7.c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-278">
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>addURLSpace</find>
+      <find>reverse</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="2023" />
-    <option name="y" value="34" />
-    <option name="width" value="1400" />
-    <option name="height" value="1000" />
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Trees And Graphs/BinaryNode.cpp" />
+        <option value="$PROJECT_DIR$/Trees And Graphs/4.7.cpp" />
+        <option value="$PROJECT_DIR$/Trees And Graphs/BinaryNode.h" />
+        <option value="$PROJECT_DIR$/Trees And Graphs/Trees And Graphs.cpp" />
+        <option value="$PROJECT_DIR$/CMakeLists.2.txt" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/Bit Manipulation/5.1.cpp" />
+        <option value="$PROJECT_DIR$/Bit Manipulation/print.cpp" />
+        <option value="$PROJECT_DIR$/Bit Manipulation/5.2.cpp" />
+        <option value="$PROJECT_DIR$/Bit Manipulation/Bit Manipulation.cpp" />
+        <option value="$PROJECT_DIR$/Lists/Chapter 2.cpp" />
+        <option value="$PROJECT_DIR$/Lists/2.3.cpp" />
+        <option value="$PROJECT_DIR$/Lists/2.1.cpp" />
+        <option value="$PROJECT_DIR$/Lists/Node.h" />
+        <option value="$PROJECT_DIR$/Lists/LinkedList.cpp" />
+        <option value="$PROJECT_DIR$/Lists/2.2.cpp" />
+        <option value="$PROJECT_DIR$/Stacks And Queues/3.2.h" />
+        <option value="$PROJECT_DIR$/Stacks And Queues/3.2.cpp" />
+        <option value="$PROJECT_DIR$/Stacks And Queues/3.1.cpp" />
+        <option value="$PROJECT_DIR$/Stacks And Queues/Stacks And Queues.cpp" />
+        <option value="$PROJECT_DIR$/Test/1.4.c" />
+        <option value="$PROJECT_DIR$/Test/1.2.c" />
+        <option value="$PROJECT_DIR$/Test/1.5.c" />
+        <option value="$PROJECT_DIR$/Test/1.8.c" />
+        <option value="$PROJECT_DIR$/Test/Chapter 1.cpp" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-3" />
+    <option name="y" value="-1" />
+    <option name="width" value="2566" />
+    <option name="height" value="1420" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
       <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="interview" type="b2602c69:ProjectViewProjectNode" />
+              <item name="interview-cpp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="interview" type="b2602c69:ProjectViewProjectNode" />
+              <item name="interview-cpp" type="462c0819:PsiDirectoryNode" />
+              <item name="Test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="settings.editor.selected.configurable" value="CMakeSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -51,6 +308,46 @@
       </list>
     </option>
   </component>
+  <component name="RunManager" selected="Application.test">
+    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" EXPLICIT_BUILD_TARGET_NAME="all">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bits" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="interview" TARGET_NAME="bits" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="interview" RUN_TARGET_NAME="bits">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lists" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="interview" TARGET_NAME="lists" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="interview" RUN_TARGET_NAME="lists">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="stacks" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="interview" TARGET_NAME="stacks" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="interview" RUN_TARGET_NAME="stacks">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="interview" TARGET_NAME="test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="interview" RUN_TARGET_NAME="test">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="trees" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="interview" TARGET_NAME="trees" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="interview" RUN_TARGET_NAME="trees">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Build All" />
+      <item itemvalue="Application.bits" />
+      <item itemvalue="Application.lists" />
+      <item itemvalue="Application.stacks" />
+      <item itemvalue="Application.test" />
+      <item itemvalue="Application.trees" />
+    </list>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="265dc759-f428-43d8-b736-439bf8b20ec4" name="Default" comment="" />
@@ -59,35 +356,356 @@
       <option name="presentableId" value="Default" />
       <updated>1528951991187</updated>
       <workItem from="1528951995059" duration="1430000" />
+      <workItem from="1542437320687" duration="320000" />
+      <workItem from="1542517877529" duration="2876000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1430000" />
+    <option name="totallyTimeSpent" value="4626000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="2023" y="34" width="1400" height="1000" extended-state="1" />
+    <frame x="-3" y="-1" width="2566" height="1420" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="LuaJ" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Version Control" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1372315" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" weight="0.32913387" />
       <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32913387" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="CMake" order="11" weight="0.33622047" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="LuaJ" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Google/Google.vcproj">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Google/targetver.h">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Google/stdafx.h">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Google/stdafx.cpp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Google/ReadMe.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Google/Google.cpp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Trees And Graphs/Trees And Graphs.vcproj">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Trees And Graphs/stdafx.h">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Trees And Graphs/stdafx.cpp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Trees And Graphs/ReadMe.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Trees And Graphs/targetver.h">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Trees And Graphs/4.7.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#14#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Trees And Graphs/4.7.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="7" selection-start-line="28" selection-start-column="7" selection-end-line="28" selection-end-column="7" />
+          <folding>
+            <element signature="e#1#24#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Trees And Graphs/BinaryNode.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#1#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Trees And Graphs/BinaryNode.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-126">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Trees And Graphs/Trees And Graphs.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#82#101#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/ReadMe.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/stdafx.cpp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/stdafx.h">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/targetver.h">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-90">
+          <caret line="12" column="24" lean-forward="true" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="691">
+          <caret line="58" column="8" selection-start-line="58" selection-start-column="8" selection-end-line="58" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bit Manipulation/5.1.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#1#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bit Manipulation/print.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="14" selection-start-line="30" selection-start-column="14" selection-end-line="30" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bit Manipulation/5.2.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" column="18" selection-start-line="36" selection-start-column="18" selection-end-line="36" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bit Manipulation/Bit Manipulation.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#84#103#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lists/3.1.cpp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lists/Chapter 2.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <element signature="e#72#87#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lists/2.3.h">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lists/2.3.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#1#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lists/2.2.h">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lists/2.1.h">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lists/2.1.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#1#16#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lists/Node.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="17" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lists/LinkedList.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lists/LinkedList.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="17" selection-start-column="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lists/2.2.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#1#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Stacks And Queues/3.2.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="18" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Stacks And Queues/3.2.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="17" selection-start-column="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Stacks And Queues/Stacks And Queues.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#84#100#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Stacks And Queues/3.1.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Stacks And Queues/3.1.h">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/1.4.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="82">
+          <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/1.5.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="37">
+          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/1.6.c">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/1.7.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-278">
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/1.8.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="35" column="4" selection-start-line="35" selection-start-column="4" selection-end-line="35" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/1.1.c">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/1.2.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="645">
+          <caret line="44" column="24" selection-start-line="44" selection-start-column="24" selection-end-line="44" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/1.3.c">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/Chapter 1.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="42" column="5" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
+          <folding>
+            <element signature="e#70#88#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>

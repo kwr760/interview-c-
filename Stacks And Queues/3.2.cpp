@@ -1,5 +1,4 @@
-#include "stdafx.h"
-
+#include <stdio.h>
 #include "3.2.h"
 
 void testStackMin() {
